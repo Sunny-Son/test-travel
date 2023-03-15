@@ -41,8 +41,8 @@
     <screens>
         <name>Travel_request</name>
         <label>Travel_request</label>
-        <locationX>601</locationX>
-        <locationY>427</locationY>
+        <locationX>585</locationX>
+        <locationY>435</locationY>
         <allowBack>true</allowBack>
         <allowFinish>true</allowFinish>
         <allowPause>true</allowPause>
@@ -81,14 +81,14 @@
             <inputParameters>
                 <name>columns</name>
                 <value>
-                    <stringValue>[{&quot;apiName&quot;:&quot;Purpose_of_Trip__c&quot;,&quot;guid&quot;:&quot;column-960d&quot;,&quot;editable&quot;:false,&quot;hasCustomHeaderLabel&quot;:true,&quot;customHeaderLabel&quot;:&quot;출장목적&quot;,&quot;wrapText&quot;:true,&quot;order&quot;:0,&quot;label&quot;:&quot;Purpose of Trip&quot;,&quot;type&quot;:&quot;text&quot;},{&quot;apiName&quot;:&quot;Trip_Start_Date__c&quot;,&quot;guid&quot;:&quot;column-4381&quot;,&quot;editable&quot;:false,&quot;hasCustomHeaderLabel&quot;:true,&quot;customHeaderLabel&quot;:&quot;출장시작일&quot;,&quot;wrapText&quot;:true,&quot;order&quot;:1,&quot;label&quot;:&quot;Trip Start Date&quot;,&quot;type&quot;:&quot;date&quot;},{&quot;apiName&quot;:&quot;Trip_End_Date__c&quot;,&quot;guid&quot;:&quot;column-0b46&quot;,&quot;editable&quot;:false,&quot;hasCustomHeaderLabel&quot;:true,&quot;customHeaderLabel&quot;:&quot;출장종료일&quot;,&quot;wrapText&quot;:true,&quot;order&quot;:2,&quot;label&quot;:&quot;Trip End Date&quot;,&quot;type&quot;:&quot;date&quot;},{&quot;apiName&quot;:&quot;&quot;,&quot;guid&quot;:&quot;column-b057&quot;,&quot;editable&quot;:false,&quot;hasCustomHeaderLabel&quot;:false,&quot;customHeaderLabel&quot;:&quot;&quot;,&quot;wrapText&quot;:true,&quot;order&quot;:3}]</stringValue>
+                    <stringValue>[{&quot;apiName&quot;:&quot;Purpose_of_Trip__c&quot;,&quot;guid&quot;:&quot;column-960d&quot;,&quot;editable&quot;:false,&quot;hasCustomHeaderLabel&quot;:true,&quot;customHeaderLabel&quot;:&quot;출장목적&quot;,&quot;wrapText&quot;:true,&quot;order&quot;:0,&quot;label&quot;:&quot;Purpose of Trip&quot;,&quot;type&quot;:&quot;text&quot;},{&quot;apiName&quot;:&quot;Trip_Start_Date__c&quot;,&quot;guid&quot;:&quot;column-4381&quot;,&quot;editable&quot;:false,&quot;hasCustomHeaderLabel&quot;:true,&quot;customHeaderLabel&quot;:&quot;출장시작일&quot;,&quot;wrapText&quot;:true,&quot;order&quot;:1,&quot;label&quot;:&quot;Trip Start Date&quot;,&quot;type&quot;:&quot;date&quot;}]</stringValue>
                 </value>
             </inputParameters>
             <inputsOnNextNavToAssocScrn>UseStoredValues</inputsOnNextNavToAssocScrn>
             <isRequired>true</isRequired>
             <storeOutputAutomatically>true</storeOutputAutomatically>
         </fields>
-        <showFooter>true</showFooter>
+        <showFooter>false</showFooter>
         <showHeader>true</showHeader>
     </screens>
     <start>
