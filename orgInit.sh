@@ -1,5 +1,4 @@
 sfdx force:org:create -f config/project-scratch-def.json -s -d 1 -w 60
 sfdx force:source:push
-sfdx shane:user:password:set -g User -l User -p salesforce1
 sfdx force:org:display --verbose
 sfdx force:org:open
