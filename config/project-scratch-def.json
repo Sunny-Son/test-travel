@@ -75,7 +75,6 @@
             "start": "3.0.0.0",
             "end": "3.255.255.255"
           },
-          
           {
             "description": "All range",
             "start": "34.0.0.0",
@@ -125,7 +124,7 @@
             "description": "All range",
             "start": "99.0.0.0",
             "end": "99.255.255.255"
-          },
+          }
         ]
       }
     }
