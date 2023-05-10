@@ -44,11 +44,6 @@
         <name>CustomTab</name>
     </types>
     <types>
-        <members>Test1</members>
-        <members>Test1/IxyIRjuIQjNGGrzXRLoGFVhwTmxZxM1</members>
-        <name>Dashboard</name>
-    </types>
-    <types>
         <members>Home_Page_Default</members>
         <members>Travel_App_UtilityBar</members>
         <members>Travel_Approval_Record_Page</members>
