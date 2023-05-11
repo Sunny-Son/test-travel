@@ -1,8 +1,8 @@
 {
     "steps":[
         {
-            "title": "Step 1: Creating a Scratch Org",
-            "body": "We are going to create a new 'Scratch Org', which is an ephemeral dev environnement.<br>We will use it to creare our app, but also to experience how Salesforce DX allows collaboratoive development, Continuous Integration and Continous Deployment.",
-            "button": "Create Scratch Org"
+            "title": "실습 환경 설정",
+            "body": "세일즈포스 플랫폼 실습에 참여해 주셔서 감사합니다.<br>본 화면은 세일즈포스 플랫폼을 빠르고 손쉽게 경험하실 수 있는 환경을 설정하고 있습니다.<br>세일즈포스에 별도의 아이디/패스워드를 등록하지 않아도 바로 사용하실 수 있습니다.",
+            "button": "실습 환경 준비"
         }
 ]}
