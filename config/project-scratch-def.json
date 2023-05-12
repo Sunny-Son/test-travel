@@ -16,7 +16,27 @@
       "networkAccess": {
         "ipRanges": [
           {
-            "description": "All range",
+            "description": "Heroku Private Space",
+            "start": "35.79.169.81",
+            "end": "35.79.169.81"
+          },
+          {
+            "description": "Heroku Private Space",
+            "start": "18.177.213.159",
+            "end": "18.177.213.159"
+          },
+          {
+            "description": "Heroku Private Space",
+            "start": "35.76.77.169",
+            "end": "35.76.77.169"
+          },
+          {
+            "description": "Heroku Private Space",
+            "start": "162.0.0.0",
+            "end": "52.192.31.54"
+          },
+          {
+            "description": "Heroku US",
             "start": "100.0.0.0",
             "end": "100.255.255.255"
           },
